@@ -103,6 +103,7 @@ The project uses Maven with the following key dependencies:
 
 - Jackson (JSON processing)
 - JUnit (testing)
+- Maven Assembly Plugin (for creating fat jar)
 ## Authors
 
 - [@WiktorSyska](https://www.github.com/WiktorSyska)
